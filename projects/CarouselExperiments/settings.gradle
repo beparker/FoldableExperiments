@@ -1,4 +1,0 @@
-rootProject.name = "CarouselExperiments"
-include ':app'
-include ':constraintlayout'
-include ':core'

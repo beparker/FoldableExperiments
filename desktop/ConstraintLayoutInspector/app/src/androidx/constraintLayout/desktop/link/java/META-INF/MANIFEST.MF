@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: androidx.constraintLayout.desktop.link.java.Main2
-

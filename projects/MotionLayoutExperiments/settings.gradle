@@ -1,4 +1,0 @@
-rootProject.name = "MotionLayoutExperiments"
-include ':app'
-include ':constraintlayout'
-include ':core'

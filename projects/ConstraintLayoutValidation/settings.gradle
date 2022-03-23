@@ -1,4 +1,0 @@
-rootProject.name = "ConstraintLayoutValidation"
-include ':app'
-include ':constraintlayout'
-include ':core'

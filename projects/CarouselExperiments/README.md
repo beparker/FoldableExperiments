@@ -1,4 +1,0 @@
-# ConstraintLayout Validation
-
-
-
